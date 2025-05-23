@@ -2,12 +2,12 @@
 
 # Hi there 👋
 
-I'm [Your Name], a passionate developer from [Location]!
+I'm Leng Yang, a passionate developer from North Carolina!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: leng.yang0001@gmail.com
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
