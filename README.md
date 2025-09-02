@@ -4,9 +4,9 @@
 
 I'm Leng Yang, a passionate developer from North Carolina!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on improving my skills with React and Next.js
+- 🌱 I’m currently learning React and Next.js
+- 💬 Ask me about Anything! I am always open for a conversation
 - 📫 How to reach me: leng.yang0001@gmail.com
 
 ## 🚀 Tech Stack
